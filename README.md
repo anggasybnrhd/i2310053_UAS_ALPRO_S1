@@ -120,3 +120,9 @@
     
 </body>
 </html>
+
+
+
+hasil no 7
+<img width="1433" alt="Jepretan Layar 2024-01-25 pukul 22 11 18" src="https://github.com/anggasybnrhd/i2310053_UAS_ALPRO_S1/assets/50766782/1d77bddc-2dc2-4ab2-bfaf-cc3cca1c51aa">
+
