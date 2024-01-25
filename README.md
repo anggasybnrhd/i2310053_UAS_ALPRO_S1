@@ -121,6 +121,9 @@
 </body>
 </html>
 
+jawaban no 6
+<img width="1419" alt="Jepretan Layar 2024-01-25 pukul 22 33 53" src="https://github.com/anggasybnrhd/i2310053_UAS_ALPRO_S1/assets/50766782/63d7edf6-30c5-4163-8887-faea8803e65c">
+
 
 jawaban no 7
 <img width="1433" alt="Jepretan Layar 2024-01-25 pukul 22 28 15" src="https://github.com/anggasybnrhd/i2310053_UAS_ALPRO_S1/assets/50766782/805ff1a8-50fd-4415-aa31-59d8bfddc8e8">
