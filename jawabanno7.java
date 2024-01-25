@@ -16,4 +16,4 @@ public class Main {
 
 }
 
-angga
+// kodingan berhasil, screenshoot ada di dalam file readme.md
