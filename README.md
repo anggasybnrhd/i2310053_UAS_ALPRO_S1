@@ -103,18 +103,19 @@
         </li>
 
 
-        <li>
-            berapakah nilai x pada program berikut ini ;<br>
-            x = y = [1, 9, 3, 2],<br>
-            y[3] = 4,<br>
-            x[2] = 9,<br>
-            print(x) <br>
+        <li><script>
+            var X = [];
+            var Y = [1, 9, 3, 2];
+            Y[3] = 4;
+            X[2] = 9;
+            document.write("X = [" + X.join('') + "]");
+        </script> 
 
-<img width="1433" alt="Jepretan Layar 2024-01-25 pukul 19 48 22" src="https://github.com/anggasybnrhd/i2310053_UAS_ALPRO_S1/assets/50766782/a384fa6f-23f6-4166-a5ac-676b26691358">
+        
+            </li>
+        </li>
 
-            
-            jawabannya ialah <br>
-            [1, 9, 9, 4]</li>
+        
     </ol>
     
 </body>
