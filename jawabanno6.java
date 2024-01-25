@@ -1,5 +1,5 @@
-
 public class Main {
+
     public static void main(String[] args) {
         // Pola 1 Right Half Pyramid
         int bintang = 5;
